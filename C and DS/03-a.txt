@@ -1,0 +1,28 @@
+glass = variable
+water = value
+
+after that we can use that value in our program.
+
+variable -> names points to some memory location.don't need to worry about at which location of memory it stored.
+must have to declare before using it.
+declaration = announcing the properties of variable to the computer.
+properties = size of the variable and name of the variable
+
+definition of variable = allocation memory to a variable
+Ex: int var;
+here name of variable = var
+it has int datatypes
+datatypes = how much space that variable going to occupie in memory
+
+so here you are declaring variable and requesting compiler to allowcate memory for this variable.
+
+semicolon = seprate one statement from the other
+int = 2 bytes or4 bytes
+
+when you assign value to variable at a time of declaration it self then it is initialization of a variable.
+you can change value of it after words.
+
+
+variable = vary- able = something that can vary over time.
+constant = once defied will never change opposite of variable.
+EX:

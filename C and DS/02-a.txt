@@ -1,0 +1,9 @@
+to be successful in task to divide task and work on them seprately.
+*C
+procedural programming
+high and low => degree of abstraction => hiding system level details. or less efforts to the user or more efforts to the user.
+there is middle level nither high now low which is C:
+make programming simple and allow to access system level feature.
+like direct access to memory by pointer, bit manuplating using bitwiser operator,writing assembly code using c.
+popular for making system level app like kernel, driver os. and software like games editor.
+C offer wide variety of built in functions, standard libraby and header files. 

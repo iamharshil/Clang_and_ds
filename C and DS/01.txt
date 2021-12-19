@@ -1,0 +1,16 @@
+programmer = power to control computer
+ds = to manage data efficeintly
+
+its coariculam is based on gate exams.
+
+-----History
+*binary
+*assembly language
+ADD A, B
+*why coariculam 
+portabilty (assembly is not portable)
+first use of c is unix in 1972
+C is not for perticular hardware.
+need to write less lines then assembly
+dannis ricchie needs make programming easier for programmer.
+for using this we need translator know as compiler
